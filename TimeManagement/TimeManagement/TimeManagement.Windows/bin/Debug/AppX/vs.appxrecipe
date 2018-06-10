@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-OJLOECO</Machine>
+    <WindowsUser>Deepak</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9a0cf6b5-4476-426e-a589-735126c8681d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Deepak</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>E32987C7F99F243BBC9DBCA7C5B9877144356B0DF79AD0BAAB62B44CA6EA7010</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9a0cf6b5-4476-426e-a589-735126c8681d_1.0.0.0_neutral__9qevcg6210hgp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9a0cf6b5-4476-426e-a589-735126c8681d_9qevcg6210hgp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9a0cf6b5-4476-426e-a589-735126c8681d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Deepak</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-24T03:56:14.086</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\bin\Debug\TimeManagement.Windows.exe">
+      <PackagePath>TimeManagement.Windows.exe</PackagePath>
+      <Modified>2016-10-24T03:56:10.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2016-10-23T08:33:35.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\bin\Debug\TimeManagement.Windows.xr.xml">
+      <PackagePath>TimeManagement.Windows.xr.xml</PackagePath>
+      <Modified>2016-10-23T08:35:41.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-10-24T03:56:08.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2016-10-24T03:56:08.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2016-10-24T03:56:08.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2016-10-24T03:56:08.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-24T03:56:12.026</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

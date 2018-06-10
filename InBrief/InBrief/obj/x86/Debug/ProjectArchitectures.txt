@@ -1,0 +1,1 @@
+c:\users\deepak\documents\visual studio 2015\Projects\InBrief\InBrief\InBrief.csproj;x86

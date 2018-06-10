@@ -1,0 +1,4 @@
+WeatherAPP.MainActivity, WeatherAPP;md5fd06679f888d44abddf2c6de9f2c847d.MainActivity
+WeatherAPP.MainActivity, WeatherAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fd06679f888d44abddf2c6de9f2c847d.MainActivity
+WeatherAPP.MainActivity;md5fd06679f888d44abddf2c6de9f2c847d.MainActivity
+weatherapp.MainActivity;md5fd06679f888d44abddf2c6de9f2c847d.MainActivity

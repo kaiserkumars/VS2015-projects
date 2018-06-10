@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\bin\Debug\myCodelibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\bin\Debug\myCodelibrary.pdb
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\obj\Debug\myCodelibrary.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\obj\Debug\myCodelibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\obj\Debug\myCodelibrary.pdb

@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\workingWithCollections\workingWithCollections\bin\Debug\workingWithCollections.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\workingWithCollections\workingWithCollections\obj\Debug\workingWithCollections.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\workingWithCollections\workingWithCollections\bin\Debug\workingWithCollections.exe
+c:\users\dell\documents\visual studio 2015\Projects\workingWithCollections\workingWithCollections\bin\Debug\workingWithCollections.pdb
+c:\users\dell\documents\visual studio 2015\Projects\workingWithCollections\workingWithCollections\obj\Debug\workingWithCollections.exe
+c:\users\dell\documents\visual studio 2015\Projects\workingWithCollections\workingWithCollections\obj\Debug\workingWithCollections.pdb

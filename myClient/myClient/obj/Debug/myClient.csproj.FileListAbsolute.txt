@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2015\Projects\myClient\myClient\bin\Debug\myClient.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\myClient\myClient\bin\Debug\myClient.exe
+c:\users\dell\documents\visual studio 2015\Projects\myClient\myClient\bin\Debug\myClient.pdb
+c:\users\dell\documents\visual studio 2015\Projects\myClient\myClient\bin\Debug\myCodelibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\myClient\myClient\bin\Debug\myCodelibrary.pdb
+c:\users\dell\documents\visual studio 2015\Projects\myClient\myClient\obj\Debug\myClient.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\myClient\myClient\obj\Debug\myClient.exe
+c:\users\dell\documents\visual studio 2015\Projects\myClient\myClient\obj\Debug\myClient.pdb
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\myClient\myClient\bin\Debug\myClient.exe.config
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\myClient\myClient\obj\Debug\myClient.exe
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\myClient\myClient\obj\Debug\myClient.pdb
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\myClient\myClient\bin\Debug\myClient.exe
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\myClient\myClient\bin\Debug\myClient.pdb
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\myClient\myClient\bin\Debug\myCodelibrary.dll
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\myClient\myClient\bin\Debug\myCodelibrary.pdb
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\myClient\myClient\obj\Debug\myClient.csprojResolveAssemblyReference.cache

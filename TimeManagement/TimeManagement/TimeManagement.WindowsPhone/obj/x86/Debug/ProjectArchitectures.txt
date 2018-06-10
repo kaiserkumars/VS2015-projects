@@ -1,0 +1,1 @@
+c:\users\deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.WindowsPhone\TimeManagement.WindowsPhone.csproj;x86

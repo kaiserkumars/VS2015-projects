@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\whileIteration\whileIteration\bin\Debug\whileIteration.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\whileIteration\whileIteration\obj\Debug\whileIteration.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\whileIteration\whileIteration\bin\Debug\whileIteration.exe
+c:\users\dell\documents\visual studio 2015\Projects\whileIteration\whileIteration\bin\Debug\whileIteration.pdb
+c:\users\dell\documents\visual studio 2015\Projects\whileIteration\whileIteration\obj\Debug\whileIteration.exe
+c:\users\dell\documents\visual studio 2015\Projects\whileIteration\whileIteration\obj\Debug\whileIteration.pdb

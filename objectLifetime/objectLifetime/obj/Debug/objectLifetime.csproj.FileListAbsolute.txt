@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\objectLifetime\objectLifetime\bin\Debug\objectLifetime.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\objectLifetime\objectLifetime\bin\Debug\objectLifetime.exe
+c:\users\dell\documents\visual studio 2015\Projects\objectLifetime\objectLifetime\bin\Debug\objectLifetime.pdb
+c:\users\dell\documents\visual studio 2015\Projects\objectLifetime\objectLifetime\obj\Debug\objectLifetime.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\objectLifetime\objectLifetime\obj\Debug\objectLifetime.exe
+c:\users\dell\documents\visual studio 2015\Projects\objectLifetime\objectLifetime\obj\Debug\objectLifetime.pdb

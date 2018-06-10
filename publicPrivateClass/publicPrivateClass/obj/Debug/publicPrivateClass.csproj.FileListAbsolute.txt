@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\publicPrivateClass\publicPrivateClass\bin\Debug\publicPrivateClass.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\publicPrivateClass\publicPrivateClass\bin\Debug\publicPrivateClass.exe
+c:\users\dell\documents\visual studio 2015\Projects\publicPrivateClass\publicPrivateClass\bin\Debug\publicPrivateClass.pdb
+c:\users\dell\documents\visual studio 2015\Projects\publicPrivateClass\publicPrivateClass\obj\Debug\publicPrivateClass.exe
+c:\users\dell\documents\visual studio 2015\Projects\publicPrivateClass\publicPrivateClass\obj\Debug\publicPrivateClass.pdb

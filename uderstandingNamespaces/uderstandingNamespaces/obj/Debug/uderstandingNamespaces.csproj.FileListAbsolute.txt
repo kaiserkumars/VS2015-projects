@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\uderstandingNamespaces\uderstandingNamespaces\bin\Debug\uderstandingNamespaces.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\uderstandingNamespaces\uderstandingNamespaces\bin\Debug\uderstandingNamespaces.exe
+c:\users\dell\documents\visual studio 2015\Projects\uderstandingNamespaces\uderstandingNamespaces\bin\Debug\uderstandingNamespaces.pdb
+c:\users\dell\documents\visual studio 2015\Projects\uderstandingNamespaces\uderstandingNamespaces\obj\Debug\uderstandingNamespaces.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\uderstandingNamespaces\uderstandingNamespaces\obj\Debug\uderstandingNamespaces.exe
+c:\users\dell\documents\visual studio 2015\Projects\uderstandingNamespaces\uderstandingNamespaces\obj\Debug\uderstandingNamespaces.pdb

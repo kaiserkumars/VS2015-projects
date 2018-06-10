@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\bin\Release\myCodelibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\bin\Release\myCodelibrary.pdb
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\obj\Release\myCodelibrary.dll
+c:\users\dell\documents\visual studio 2015\Projects\myCodelibrary\myCodelibrary\obj\Release\myCodelibrary.pdb

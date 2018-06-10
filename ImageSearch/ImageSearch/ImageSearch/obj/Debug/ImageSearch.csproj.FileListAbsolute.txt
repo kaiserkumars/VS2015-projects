@@ -1,0 +1,15 @@
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\ImageSearch.pdb
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\obj\Debug\ImageSearch.csprojResolveAssemblyReference.cache
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\obj\Debug\ImageSearch.pdb
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb

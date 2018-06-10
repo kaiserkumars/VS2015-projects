@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\rrays\rrays\bin\Debug\rrays.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\rrays\rrays\bin\Debug\rrays.exe
+c:\users\dell\documents\visual studio 2015\Projects\rrays\rrays\bin\Debug\rrays.pdb
+c:\users\dell\documents\visual studio 2015\Projects\rrays\rrays\obj\Debug\rrays.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\rrays\rrays\obj\Debug\rrays.exe
+c:\users\dell\documents\visual studio 2015\Projects\rrays\rrays\obj\Debug\rrays.pdb

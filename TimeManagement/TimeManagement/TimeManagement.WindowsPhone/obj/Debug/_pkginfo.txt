@@ -1,0 +1,1 @@
+C:\Users\Deepak\Documents\Visual Studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\AppPackages\TimeManagement.WindowsPhone_1.0.0.0_AnyCPU_Debug_Test\TimeManagement.WindowsPhone_1.0.0.0_AnyCPU_Debug.appx

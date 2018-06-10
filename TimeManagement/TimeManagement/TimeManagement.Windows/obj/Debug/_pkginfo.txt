@@ -1,0 +1,1 @@
+C:\Users\Deepak\documents\visual studio 2015\Projects\TimeManagement\TimeManagement\TimeManagement.Windows\AppPackages\TimeManagement.Windows_1.0.0.0_AnyCPU_Debug_Test\TimeManagement.Windows_1.0.0.0_AnyCPU_Debug.appx

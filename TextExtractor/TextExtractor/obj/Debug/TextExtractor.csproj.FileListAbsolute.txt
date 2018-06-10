@@ -1,0 +1,14 @@
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\bin\Debug\TextExtractor.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\bin\Debug\TextExtractor.exe
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\bin\Debug\TextExtractor.pdb
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\TextExtractor.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\TextExtractor_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\TextExtractor_MarkupCompile.lref
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\TextExtractor.g.resources
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\TextExtractor.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\TextExtractor.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\TextExtractor.exe
+c:\users\dell\documents\visual studio 2015\Projects\TextExtractor\TextExtractor\obj\Debug\TextExtractor.pdb

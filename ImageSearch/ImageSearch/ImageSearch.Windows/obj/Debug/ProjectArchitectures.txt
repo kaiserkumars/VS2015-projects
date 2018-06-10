@@ -1,0 +1,2 @@
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch.Windows\ImageSearch.Windows.csproj;neutral
+c:\users\deepak\documents\visual studio 2015\Projects\ImageSearch\ImageSearch\ImageSearch\ImageSearch.csproj;neutral

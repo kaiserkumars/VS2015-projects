@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\Dummies\Dummies\bin\Debug\Dummies.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Dummies\Dummies\bin\Debug\Dummies.exe
+c:\users\dell\documents\visual studio 2015\Projects\Dummies\Dummies\bin\Debug\Dummies.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Dummies\Dummies\obj\Debug\Dummies.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Dummies\Dummies\obj\Debug\Dummies.exe
+c:\users\dell\documents\visual studio 2015\Projects\Dummies\Dummies\obj\Debug\Dummies.pdb

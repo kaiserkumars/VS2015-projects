@@ -1,0 +1,42 @@
+﻿<Window x:Class="Database.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Database"
+        mc:Ignorable="d"
+        Title="Student Details" Height="350" Width="569">
+
+    <GroupBox x:Name="groupBox" Header="Details"  Height="Auto" Margin="240,10,0,0" VerticalAlignment="Top" Width="Auto" HorizontalAlignment="Left">
+        <Grid Width="Auto">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="fname" Content="First Name" Grid.Row="0" Grid.Column="0" FontSize="18.667" FontWeight="Bold"/>
+            <Label x:Name="lname" Content="Last Name"   Grid.Row="1" Grid.Column="0" FontSize="18.667" FontWeight="Bold"/>
+            <Label x:Name="branch" Content="Branch"  Grid.Row="2" Grid.Column="0" FontSize="18.667" FontWeight="Bold" />
+            <Label x:Name="roll" Content="Roll Number"   Grid.Row="3" Grid.Column="0" FontSize="18.667" FontWeight="Bold"/>
+            <Label x:Name="email" Content="Email" Grid.Row="4" Grid.Column="0" FontSize="18.667" FontWeight="Bold"/>
+            <Label x:Name="mobnum" Content="Mobile Number"   Grid.Row="5" Grid.Column="0" FontSize="18.667" FontWeight="Bold" />
+
+            <TextBox x:Name="fname_tb" Text="Empty" Grid.Row="0" Grid.Column="1" Width="150px" Margin="8,5,0,0" FontSize="18.667" />
+            <TextBox x:Name="lname_tb" Text="Empty" Grid.Row="1" Grid.Column="1" Width="150px" Margin="8,5,0,0" FontSize="18.667"/>
+            <TextBox x:Name="branch_tb" Text="Empty" Grid.Row="2" Grid.Column="1" Width="150px" Margin="8,5,0,0" FontSize="18.667"/>
+            <TextBox x:Name="roll_tb" Text="Empty" Grid.Row="3" Grid.Column="1" Width="150px" Margin="8,5,0,0" FontSize="18.667"/>
+            <TextBox x:Name="email_tb" Text="Empty" Grid.Row="4" Grid.Column="1" Width="150px" Margin="8,5,0,0" FontSize="18.667"/>
+            <TextBox x:Name="mob_tb" Text="Empty" Grid.Row="5" Grid.Column="1" Width="150px" Margin="8,5,0,0" FontSize="18.667"/>
+        </Grid>
+
+    </GroupBox>
+
+
+</Window>

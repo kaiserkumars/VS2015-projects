@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-OJLOECO</Machine>
+    <WindowsUser>Deepak</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>02cc53af-b21d-4737-8ccc-cd400418dde3</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Deepak</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>3716D496E61EA2BE8EBA962BE481377773EB6DE9C06E9E10F12BFBC675DC9F8F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>02cc53af-b21d-4737-8ccc-cd400418dde3_1.0.0.0_neutral__9qevcg6210hgp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>02cc53af-b21d-4737-8ccc-cd400418dde3_9qevcg6210hgp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>02cc53af-b21d-4737-8ccc-cd400418dde3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Deepak</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-24T06:21:04.932</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.exe">
+      <PackagePath>HubApp1.Windows.exe</PackagePath>
+      <Modified>2016-10-24T06:52:49.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2016-10-24T06:20:19.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.xr.xml">
+      <PackagePath>HubApp1.Windows.xr.xml</PackagePath>
+      <Modified>2016-10-24T06:52:49.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-10-24T06:21:03.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2016-10-24T06:52:49.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2016-10-24T06:21:03.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2016-10-24T06:21:03.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\deepak\documents\visual studio 2015\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-24T06:54:19.237</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

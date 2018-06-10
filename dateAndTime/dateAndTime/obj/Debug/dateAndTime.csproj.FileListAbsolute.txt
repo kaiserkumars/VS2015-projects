@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\dateAndTime\dateAndTime\bin\Debug\dateAndTime.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\dateAndTime\dateAndTime\bin\Debug\dateAndTime.exe
+c:\users\dell\documents\visual studio 2015\Projects\dateAndTime\dateAndTime\bin\Debug\dateAndTime.pdb
+c:\users\dell\documents\visual studio 2015\Projects\dateAndTime\dateAndTime\obj\Debug\dateAndTime.exe
+c:\users\dell\documents\visual studio 2015\Projects\dateAndTime\dateAndTime\obj\Debug\dateAndTime.pdb

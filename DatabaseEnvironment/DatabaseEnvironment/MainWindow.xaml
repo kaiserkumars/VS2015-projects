@@ -1,0 +1,15 @@
+﻿<Window x:Class="DatabaseEnvironment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DatabaseEnvironment"
+        mc:Ignorable="d"
+        Title="Overview" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="STUDENTS" HorizontalAlignment="Left" Margin="36,35,0,0" TextWrapping="Wrap" Text="STUDENTS" VerticalAlignment="Top" Height="46" Width="128" FontSize="16" FontWeight="Bold" />
+        <TextBlock x:Name="SATFF" HorizontalAlignment="Left" Margin="372,35,0,0" TextWrapping="Wrap" Text="STAFF" VerticalAlignment="Top" Height="46" Width="119" FontSize="16" FontWeight="Bold"/>
+        <TextBlock x:Name="SCHOLARS" HorizontalAlignment="Left" Height="46" Margin="36,230,0,0" TextWrapping="Wrap" Text="SCHOLARS" VerticalAlignment="Top" Width="134" FontSize="16" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
